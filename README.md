@@ -17,6 +17,7 @@ Discord
 ## Team Roles ##
 * Kassim Farrah - Documentation Lead, Data Modeler 	:bowtie: :star2:
 * Colleen O'Neill - Client Liasion, UI Design :koala: :shamrock:
+* Haylee Anderson - Lead Programmer, Team Manager :bamboo: :two_hearts:
 
 
 
