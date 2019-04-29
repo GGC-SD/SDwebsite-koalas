@@ -1,0 +1,180 @@
+.container {
+    background-color: white;
+    width:950px;
+    margin: auto;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    overflow: auto;
+  }
+  
+  body {
+  	background-image: url(left_side.png), url(right_side.png), linear-gradient(white, #006407);
+    background-position: left top, right top;
+    background-repeat: repeat-y, repeat-y, no-repeat;
+    background-size: 155px 1000px, 155px 1000px, cover;
+    font-family: arial;
+  }
+  
+  .logo {
+  	width:600px;
+    height:110px;
+    float: left;
+  }
+  
+  .admin {
+  	font-size:85%
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: black;
+    margin: auto;
+  }
+
+  .here {
+	border: 2px solid white;
+    margin: 8px;
+    line-height: 5px;
+  }
+
+  .navbar a {
+    float: left;
+    font-size: 145%;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  .here-drop {
+    border: 2px solid white;
+    margin: 8px;
+    line-height: 5px;
+    font-size: 145%;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+  }
+
+  .dropdown .dropbtn {
+    font-size: 145%;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    color: #006407;
+    font-weight: bold;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #F0F0F0;
+    border-radius: 3px;
+    min-width: 170px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+  .dropdown-content a:hover {
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .class-photo{
+    width:925px;
+    height:625px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .content {
+    background-color:#F0F0F0;
+    width:95%;
+    margin:0 auto;
+    border-radius:3px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:1%;
+    padding-top:1%;
+    font-size: 115%;
+  }
+  
+      .content_Two {
+    background-color:#F0F0F0;
+    width:95%;
+    margin: center;
+    border-radius:3px;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:1%;
+    padding-top:1%
+  }
+ h2 {
+    font-size: 105%;
+    text-align: center;
+  }
+   .footer {
+  	background-color: black;
+    width: 101.5%;
+    height: 8%;
+  	bottom: 0;
+    left: 0;
+    display: block;
+	color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    border-radius:3px;
+    margin-left: -1%;
+    
+  }
+  .u_c {
+  	width:400px;
+    height:400px;
+    display: block;
+    margin-left: auto;
+  	margin-right: auto;
+  }
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
