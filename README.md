@@ -1,27 +1,26 @@
-# MyApp
+# Potent Koalas - Software Development 1 Website #
+## Description ##
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+As part of our Software Development 1 course with Dr. Anca, we have been working on our Software Development 1 website. Our website will have a home page with announcements, a project page with an archive of past semesters, and a FAQ page. We will have one administrator who will be able to make, edit, and delete posts.
+## Repo Location ##
 
-## Development server
+[Github Repo](https://github.com/GGC-SD/koalas)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Progress Tracking Tool ##
 
-## Code scaffolding
+Trello
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Other Communication Tools ##
 
-## Build
+Discord
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Team Roles ##
+* Kassim Farrah - Documentation Lead, Data Modeler 	:bowtie: :star2:
+* Colleen O'Neill - Client Liasion, UI Design :koala: :shamrock:
+* Haylee Anderson - Lead Programmer, Team Manager :bamboo: :two_hearts:
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Installation Instructions ##
+-Download repo 
+-upload to hosting website
