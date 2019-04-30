@@ -26,3 +26,6 @@ Discord
 -upload to hosting website
 -navigate to src/Resources/
 -All files under the resource file is the project
+-PHP files do not compile without compiler environment
+-database.php handles the security and navigation of the admin
+-announcments-post.php handles the saving and deletion of the admins post
