@@ -24,3 +24,5 @@ Discord
 ## Installation Instructions ##
 -Download repo 
 -upload to hosting website
+-navigate to src/Resources/
+-All files under the resource file is the project
